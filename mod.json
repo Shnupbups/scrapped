@@ -1,0 +1,9 @@
+{
+    "id": "scrapped",
+    "version": "1.0.0",
+    "authors": ["Shnupbups"],
+    "name": "Scrapped",
+    "description": "Re-adds symbols that have been removed from the vanilla game",
+    "dependencies": [],
+    "load-after": []
+}
